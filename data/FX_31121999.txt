@@ -1,0 +1,99 @@
+
+
+
+
+
+ H.10(512)                                                                 January 3, 2000
+
+
+
+ FOREIGN EXCHANGE RATES
+
+ FOR THE WEEK ENDING DECEMBER 31, 1999
+
+ The Board of Governors of the Federal Reserve System is advised that the Federal Reserve
+ Bank of New York has certified for customs purposes the following noon buying rates in
+ New York City for cable transfers payable in foreign currencies:
+
+
+ (RATES IN CURRENCY UNITS PER DOLLAR)
+
+
+                 MONETARY
+   COUNTRY         UNIT       Dec. 27      Dec. 28      Dec. 29      Dec. 30      Dec. 31
+
+ *AUSTRALIA      DOLLAR         0.6448       0.6450       0.6503       0.6539       0.6560
+  BRAZIL         REAL           1.8330       1.8320       1.8140       1.7920       1.8090
+  CANADA         DOLLAR         1.4623       1.4545       1.4507       1.4533       1.4440
+  CHINA, P.R.    YUAN           8.2796       8.2797       8.2793       8.2795       8.2795
+  DENMARK        KRONE          7.3400       7.3890       7.4025       7.4210       7.3950
+ *EMU MEMBERS    EURO           1.0136       1.0068       1.0045       1.0024       1.0070
+  GREECE         DRACHMA      326.15       327.80       329.00       329.30       327.90
+  HONG KONG      DOLLAR         7.7712       7.7735       7.7723       7.7745       7.7740
+  INDIA          RUPEE         43.55        43.55        43.55        43.55        43.51
+  JAPAN          YEN          102.10       102.19       102.05       102.33       102.16
+  MALAYSIA       RINGGIT        3.8000       3.8000       3.8000       3.8000       3.8000
+  MEXICO         PESO           9.458        9.506        9.533        9.495        9.480
+ *NEW ZEALAND    DOLLAR         0.5175       0.5171       0.5209       0.5217       0.5234
+  NORWAY         KRONE          7.9890       8.0360       8.0440       8.0305       8.0100
+  SINGAPORE      DOLLAR         1.6698       1.6660       1.6650       1.6670       1.6670
+  SOUTH AFRICA   RAND           6.1580       6.1530       6.1650       6.1585       6.1600
+  SOUTH KOREA    WON         1133.70      1143.00      1142.50      1133.00      1136.00
+  SRI LANKA      RUPEE         71.800       71.750       71.750       71.750       71.750
+  SWEDEN         KRONA          8.4640       8.5130       8.5300       8.5400       8.5050
+  SWITZERLAND    FRANC          1.5835       1.5940       1.5977       1.6015       1.5930
+  TAIWAN         DOLLAR        31.600       31.550       31.500       31.400       31.390
+  THAILAND       BAHT          37.750       37.600       37.500       37.700       37.750
+ *UNITED KINGDOM POUND          1.6173       1.6165       1.6168       1.6130       1.6150
+  VENEZUELA      BOLIVAR      647.25       647.40       648.50       648.25       649.25
+
+  MEMO:
+  UNITED STATES   DOLLAR
+1)BROAD          JAN97=100    115.74       115.89       115.86       115.87       115.61
+2)MAJOR CURRENCY MAR73=100     92.82        92.92        92.87        93.05        92.67
+3)OITP           JAN97=100    129.16       129.39       129.37       129.08       129.11
+
+
+ This release is available online at http://www.federalreserve.gov/releases/H10.
+
+ For more information on exchange rate indexes for the U.S. dollar, see "New Summary Measures
+ of the Foreign Exchange Value of the Dollar," Federal Reserve Bulletin, vol. 84 (October 1998),
+ pp. 811-18 (http://www.federalreserve.gov/pubs/bulletin/) and "Index of the Weighted-Average
+ Exchange Value of the U.S. Dollar: Revision," Federal Reserve Bulletin, vol. 64 (August 1978),
+ p.700. Weights for broad index can be found at http://www.federalreserve.gov/releases/H10/Weights;
+ weights for the major currencies index and the other important trading partners (OITP) index are
+ derived from the broad index weights.  The most recent annual revision to the trade weights has
+ produced revised index values that appear in the dollar indexes starting with the
+ November 1, 1999, release.
+
+ *  Value is U.S. dollars.
+ 1) A weighted average of the foreign exchange value of the U.S. dollar against the currencies
+ of a broad group of major U.S. trading partners.
+ 2) A weighted average of the foreign exchange value of the U.S. dollar against a subset of
+ the broad index currencies that circulate widely outside the country of issue.
+ 3) A weighted average of the foreign exchange value of the U.S. dollar against a subset of
+ the broad index currencies that do not circulate widely outside the country of issue.
+
+ For information about your subscription to this release or about receiving it in document form,
+ please call publication services at Federal Reserve Board at (202) 452-3244.
+
+ As of the January 11, 1999 release, the euro is reported in place of the individual euro-area
+ currencies. These currency rates can be derived from the euro rate by using the fixed conversion
+ rates (in currencies per euro) given below:
+
+        1  EUR  =  13.7603  AUSTRIAN SCHILLINGS
+                =  40.3399  BELGIAN FRANCS
+                =  5.94573  FINNISH MARKKAS
+                =  6.55957  FRENCH FRANCS
+                =  1.95583  GERMAN MARKS
+                =  .787564  IRISH POUNDS
+                =  1936.27  ITALIAN LIRE
+                =  40.3399  LUXEMBOURG FRANCS
+                =  2.20371  NETHERLANDS GUILDERS
+                =  200.482  PORTUGUESE ESCUDOS
+                =  166.386  SPANISH PESETAS
+
+
+
+
+
